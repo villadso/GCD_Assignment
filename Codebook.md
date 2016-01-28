@@ -12,7 +12,8 @@ More information on this project can be found here: http://archive.ics.uci.edu/m
 
 ###Transformations
 
-The associated R Script (run_analysis.R) performs the following actions to the above data once it is downloaded (see README):
+#####The associated R Script (run_analysis.R) performs the following actions to the above data once it is downloaded (see README):
+
 1. Loads the names of the features (i.e. measurements) and activities
 2. Loads the subjects, features, and activity ID data for each of the two data sets: test and training.
 3. Assigns the names in step 1 to the column names for the data frames created in step 2.
